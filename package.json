@@ -1,0 +1,31 @@
+{
+  "name": "hjs-file",
+  "version": "1.0.0",
+  "description": "Unified file implementation for nodeJS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-file.git"
+  },
+  "keywords": [
+    "FileInputStream",
+    "FilenameFilter",
+    "File"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-file/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-file#readme",
+  "dependencies": {
+    "hjs-core": "^1.0.1",
+    "hjs-io": "^1.0.0"
+  }
+}
